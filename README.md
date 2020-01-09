@@ -10,14 +10,25 @@ Introduction:
 
 In Biology, Dinosauria is a taxonomic class, of the phylum Chordata, of
 the Kingdom Animalia.  Dinosauria has subclasses, and those have even more
-subclasses.  In Javascript classes are objects that share inheritance
-patterns.  Characteristics are inherited by subclasses, from the 
-superclasses, and they can also be modified at the current class level.
+subclasses.  As dinosaurs (parentClass) evolved, new species (subClasses)
+inherited characteristics from their ancestors as well as changing, losing
+or gaining other characteristics.
 
-In this lesson, you will start with a blank object and create a data
-structure that mimics the phylogeny tree of Dinosauria.  You may use any
-instantiation pattern you would like, and it is recommended that you
-complete the exercise in both the pseudoclassical and ES6 styles.
+In Javascript, classes are objects that share inheritance patterns.  
+Characteristics are inherited by subClasses, from their superClasses, and 
+they can also be modified at the current class level.
+
+===========================================================================
+
+Overview:
+
+In this lesson, you are provided with the original 1880's Dinosauria written 
+into a Javascipt object using the functional instantiation pattern. Start by 
+refactoring Dinosauria to use the pseudoclassical instantiation pattern, and 
+update the structure tree to match the updated 1960's Dinosauria.  Next, do 
+another refactor into the ES6 instantiation pattern..
+
+===========================================================================
 
 Resources:
 
